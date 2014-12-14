@@ -1,0 +1,2 @@
+#!/bin/bash
+../Debug/dedup4 store ecoli2_w.fasta
