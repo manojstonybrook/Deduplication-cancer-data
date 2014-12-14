@@ -1,7 +1,8 @@
 README
 =============
 
-Our project is not a portion of JOS and hence it works only on Linux. 
+Our project is not a portion of JOS and hence it works only on Linux. Please look at the report for better understanding of
+data compression - decompression, hashing, content aware chunking and average size chunking.
 
 The project folder also contains a default file system where we store the data. 
 
